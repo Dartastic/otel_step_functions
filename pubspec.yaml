@@ -3,7 +3,7 @@ description: >-
   OpenTelemetry instrumentation for step_functions by Dartastic.io. Adds
   standard OpenTelemetry observability to applications that use
   step_functions.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_step_functions
 homepage: https://dartastic.io
 
